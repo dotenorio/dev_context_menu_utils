@@ -1,0 +1,17 @@
+### Bower ###
+assets/lib
+.bower-cache
+.bower-registry
+.bower-tmp
+
+### NPM ###
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directory
+node_modules
+
+### Dev Context Menu Utils (beta) ###
+extension.zip

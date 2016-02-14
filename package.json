@@ -1,0 +1,21 @@
+{
+  "name": "dev_context_menu_utils",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "lint": "standard"
+  },
+  "standard": {
+    "globals": [
+      "chrome",
+      "Manifest",
+      "MenuItems"
+    ],
+    "ignore": [
+      "extension/assets/lib"
+    ]
+  },
+  "dependencies": {
+    "standard": "^6.0.5"
+  }
+}

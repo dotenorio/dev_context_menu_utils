@@ -31,5 +31,6 @@
     "128": "assets/img/icon_extension.png"
   },
   "author": "Fernando Migliorini Tenório",
-  "short_name": "Dev Context Menu Utils"
+  "short_name": "Dev Context Menu Utils",
+  "homepage_url": "https://github.com/dotenorio/dev_context_menu_utils"
 }

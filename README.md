@@ -4,7 +4,7 @@ O cinto de utilidades do desenvolvedor a um ou dois cliques de distância!
 
 Baixe na [Chrome Web Store](https://chrome.google.com/webstore/detail/dev-context-menu-utils-be/eopnaofinaekcbibkhapnehljhgkhmge)
 
-## Items do menu disponíveis ##
+## Itens do menu disponíveis ##
 
 * CNPJ
 * CPF

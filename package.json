@@ -9,7 +9,8 @@
     "globals": [
       "chrome",
       "Manifest",
-      "MenuItems"
+      "MenuItems",
+      "GenerateDoc"
     ],
     "ignore": [
       "extension/assets/lib"

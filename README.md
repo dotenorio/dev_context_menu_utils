@@ -23,3 +23,6 @@ _Usamos o [JavaScript Standard Style](https://github.com/feross/standard)_
 
 * 1.0.0
   * O começo de tudo
+
+* 1.0.1
+  * Gerar CNPJ e CPF dinâmico

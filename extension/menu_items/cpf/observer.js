@@ -1,4 +1,4 @@
 MenuItems.cpf = function (clickedElement) {
-  clickedElement.value = '239.387.747-97'
+  clickedElement.value = GenerateDoc.CPF()
   return clickedElement
 }

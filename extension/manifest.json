@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Dev Context Menu Utils (beta)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "O cinto de utilidades do desenvolvedor a um ou dois cliques de distância!",
   "background": {
     "scripts": [
@@ -20,8 +20,10 @@
     {
       "matches": ["<all_urls>"],
       "js": [
+        "assets/lib/jquery/dist/jquery.min.js",
         "assets/js/utils.js", 
         "assets/js/observer.js",
+        "menu_items/lib/generator.js",
         "menu_items/cpf/observer.js",
         "menu_items/cnpj/observer.js"
       ]

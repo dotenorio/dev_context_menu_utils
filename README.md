@@ -8,6 +8,7 @@ Baixe na [Chrome Web Store](https://chrome.google.com/webstore/detail/dev-contex
 
 * CNPJ
 * CPF
+* Lorem Ipsum
 
 ### Quer criar um item no menu? ###
 
@@ -21,8 +22,11 @@ _Usamos o [JavaScript Standard Style](https://github.com/feross/standard)_
 
 #### Changelog ####
 
-* 1.0.0
-  * O começo de tudo
+* 1.1.1
+  * Adicionando Lorem Ipsum
 
 * 1.0.1
   * Gerar CNPJ e CPF dinâmico
+
+* 1.0.0
+  * O começo de tudo

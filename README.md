@@ -22,6 +22,10 @@ _Usamos o [JavaScript Standard Style](https://github.com/feross/standard)_
 
 #### Changelog ####
 
+* 1.1.2
+  * Adicionando atalhos para CPF e CNPJ 
+    * chrome://extensions/configureCommands
+
 * 1.1.1
   * Adicionando Lorem Ipsum
 

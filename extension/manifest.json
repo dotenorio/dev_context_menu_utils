@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Dev Context Menu Utils (beta)",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "O cinto de utilidades do desenvolvedor a um ou dois cliques de distância!",
   "background": {
     "scripts": [
@@ -33,6 +33,22 @@
   ],
   "icons": {
     "128": "assets/img/icon_extension.png"
+  },
+  "commands": {
+    "cnpj": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+1"
+      },
+      "description": "Inserir um CNPJ",
+      "global": false
+    },
+    "cpf": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+2"
+      },
+      "description": "Inserir um CPF",
+      "global": false
+    }
   },
   "author": "Fernando Migliorini Tenório",
   "short_name": "Dev Context Menu Utils",

@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Dev Context Menu Utils (beta)",
-  "version": "1.1.2",
+  "version": "1.2.3",
   "description": "O cinto de utilidades do desenvolvedor a um ou dois cliques de distância!",
   "background": {
     "scripts": [

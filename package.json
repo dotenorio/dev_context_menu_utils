@@ -10,7 +10,7 @@
       "chrome",
       "Manifest",
       "MenuItems",
-      "GenerateDoc"
+      "Utils"
     ],
     "ignore": [
       "extension/assets/lib"

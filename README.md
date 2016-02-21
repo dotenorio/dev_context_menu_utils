@@ -22,6 +22,13 @@ _Usamos o [JavaScript Standard Style](https://github.com/feross/standard)_
 
 #### Changelog ####
 
+* 1.2.3
+  * Tornando os itens do menu mais independentes
+  * Habilitando a opção formatado ou somente número para CPF e CNPJ
+  * Adicionando Telefone
+    ** Com e sem DDD
+    ** Formatado ou somente números
+
 * 1.1.2
   * Adicionando atalhos para CPF e CNPJ 
     * chrome://extensions/configureCommands

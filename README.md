@@ -9,6 +9,7 @@ Baixe na [Chrome Web Store](https://chrome.google.com/webstore/detail/dev-contex
 * CNPJ
 * CPF
 * Lorem Ipsum
+* Telefone
 
 ### Quer criar um item no menu? ###
 
@@ -17,8 +18,7 @@ Baixe na [Chrome Web Store](https://chrome.google.com/webstore/detail/dev-contex
 ### Sempre verifique a qualidade do código ###
 
 * `$ npm run lint`
-
-_Usamos o [JavaScript Standard Style](https://github.com/feross/standard)_
+ * _Usamos o [JavaScript Standard Style](https://github.com/feross/standard)_
 
 #### Changelog ####
 
